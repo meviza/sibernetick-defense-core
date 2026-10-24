@@ -1,0 +1,47 @@
+{
+  "project": "Project Keymaker",
+  "source_revision": "d03b048c0a81a791c7d68886ac80df731fdf7ccf",
+  "release_scope": "selected defensive components; original history not republished",
+  "files": [
+    {
+      "source_path": "backend/app/core/rate_limiter.py",
+      "published_path": "app/core/rate_limiter.py",
+      "sha256": "60236da03a6223428a738f27feeed5d02ada43e63d71193fb55ad480082c4fd9"
+    },
+    {
+      "source_path": "backend/app/use_cases/data_governance.py",
+      "published_path": "app/use_cases/data_governance.py",
+      "sha256": "0bf7cea67b9b97d295115dc916a41e4a8b16c3b9534fb17cb512111b396350cd"
+    },
+    {
+      "source_path": "backend/app/domain/data_governance/entities.py",
+      "published_path": "app/domain/data_governance/entities.py",
+      "sha256": "6f5f866a6447798db86040f68a31b7d97cd01076f76203cb29ada96d198ca488"
+    },
+    {
+      "source_path": "backend/app/domain/data_governance/__init__.py",
+      "published_path": "app/domain/data_governance/__init__.py",
+      "sha256": "1c2952c11df4f6d02f2ef913b96fc9928bb6ec520ed4d19c6d1b80955f58bf72"
+    },
+    {
+      "source_path": "backend/app/domain/defensive_ai/authorized_targets.py",
+      "published_path": "app/domain/defensive_ai/authorized_targets.py",
+      "sha256": "e067a037a30d659f385c03fe99ce62d4191a37f500064051548d95c75f55b479"
+    },
+    {
+      "source_path": "backend/app/modules/supply_chain/permission_validator.py",
+      "published_path": "app/modules/supply_chain/permission_validator.py",
+      "sha256": "f3f238c0388f04377fc6bcc1f7ddfb951718955bea4b6a579765981130af9821"
+    },
+    {
+      "source_path": "backend/tests/unit/test_rate_limiter.py",
+      "published_path": "tests/unit/test_rate_limiter.py",
+      "sha256": "ee7ac39e425367d1f3cfebd5f427864d4c734e5e4a03fca7e045a570a6d5a000"
+    },
+    {
+      "source_path": "backend/tests/unit/test_data_governance_service.py",
+      "published_path": "tests/unit/test_data_governance_service.py",
+      "sha256": "7134ded0044c74ca65d5e68c81fa42bb42e3f2d8ec640f3fe067f0d97a9d002d"
+    }
+  ]
+}
